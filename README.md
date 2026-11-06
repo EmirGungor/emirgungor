@@ -1,15 +1,46 @@
-# 💫 About Me:
-🔭 I’m currently working on learning advanced concepts in React and JavaScript frameworks to enhance my front-end development skills.<br><br>👯 I’m looking to collaborate on innovative front-end development projects, particularly those focusing on enhancing user experience and creating dynamic web solutions.<br><br>🤝 I’m looking for help with expanding my knowledge in backend technologies and database management to become a more versatile developer.<br><br>🌱 I’m currently learning advanced concepts in React as well as staying updated with the latest advancements in Angular and JavaScript frameworks.<br><br>💬 Ask me about front-end development, creating user-friendly web designs, or my experiences as a computer engineering student.
+# Hi, I'm Emir 👋
 
+**Frontend & Mobile Developer** · React · TypeScript · Next.js · React Native
+📍 Ankara, Türkiye · Open to roles in Germany, the Netherlands or remote
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emir-g%C3%BCng%C3%B6r-8b2269222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+I build production web apps at **GİB Teknoloji** for a nationwide government platform used by sworn financial advisors across Türkiye. Outside work, I design, build and ship my own subscription mobile apps — end to end, from UI to App Store.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmirGungor&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EmirGungor&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirGungor&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📱 Apps I've shipped
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| App | What it is | Built with | Platforms |
+| --- | --- | --- | --- |
+| **Amel** | Islamic lifestyle app with prayer times and habit tracking | React Native · Expo · SwiftUI | App Store · Google Play |
+| **Wordana** | English vocabulary app that teaches words through Latin and Greek roots | iOS · Jetpack Compose (Android) | App Store · Google Play |
+
+Both apps: in-app subscriptions, custom paywalls, App Store & Google Play publishing, and paid user acquisition (Apple Search Ads, Google Ads, Meta).
+
+## 🛠️ Tech stack
+
+**Web**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+## 🌱 Currently
+
+- Going deeper into React internals, performance and testing (Jest, React Testing Library)
+- Practicing data structures & algorithms in TypeScript
+- Exploring LLM-powered features for my apps
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirgungor/)
