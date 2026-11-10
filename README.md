@@ -10,7 +10,7 @@ I build production web apps at **GİB Teknoloji** for a nationwide government pl
 | App | What it is | Built with | Platforms |
 | --- | --- | --- | --- |
 | **Amel** | Islamic lifestyle app with prayer times and habit tracking | React Native · Expo · SwiftUI | App Store · Google Play |
-| **Wordana** | English vocabulary app that teaches words through Latin and Greek roots | iOS · Jetpack Compose (Android) | App Store · Google Play |
+| **Wordana** | English vocabulary app that teaches words through Latin and Greek roots | SwiftUI · Jetpack Compose | App Store · Google Play |
 
 Both apps: in-app subscriptions, custom paywalls, App Store & Google Play publishing, and paid user acquisition (Apple Search Ads, Google Ads, Meta).
 
